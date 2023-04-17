@@ -17,7 +17,7 @@ INSERT ALL
     INTO DOCTOR VALUES('569329101', 'David', 'R', 'Wood', 'Cardiology', 8, 'Non Family')
     INTO DOCTOR VALUES('934826507', 'Michael', 'G', 'Brown', 'Cardiology', 2, 'Non Family')
     INTO DOCTOR VALUES('582176049', 'Ava', 'J', 'Garcia', 'Neurology', 15, 'Family')
-    INTO DOCTOR VALUES('712844569', 'George', 'D', 'Starc', 'Gynaecology', 20, 'Family')
+    INTO DOCTOR VALUES('712844569', 'Gagan', 'K', 'Gautam', 'Gynaecology', 20, 'Family')
     INTO DOCTOR VALUES('476502198', 'Ivana', 'I', 'Johnson', 'Cardiology', 7, 'Non Family')
 SELECT 1 
 FROM DUAL;
