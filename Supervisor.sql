@@ -1,0 +1,19 @@
+INSERT ALL
+    INTO SUPERVISOR VALUES('453463421', 'Hudson', 'G', 'Clark')
+    INTO SUPERVISOR VALUES('982367451', 'Jack', 'F', 'Louise')
+    INTO SUPERVISOR VALUES('562389230', 'Edward', 'C', 'Wilson')
+    INTO SUPERVISOR VALUES('200981760', 'Pretson', 'B', 'Cook')
+    INTO SUPERVISOR VALUES('459801290', 'Tanner', 'A', 'Jones')
+    INTO SUPERVISOR VALUES('559012672', 'Sonny', 'O', 'Ellis')
+    INTO SUPERVISOR VALUES('570167235', 'Harry', 'O', 'Swift')
+    INTO SUPERVISOR VALUES('710121349', 'James', 'L', 'Cooper')
+    INTO SUPERVISOR VALUES('912225634', 'Joyce', 'A', 'Roberts')
+    INTO SUPERVISOR VALUES('123456987', 'Taylor', 'N', 'Styles')
+    INTO SUPERVISOR VALUES('900129871', 'Jennie', 'E', 'Lavin')
+    INTO SUPERVISOR VALUES('211004523', 'Dillie', 'A', 'Davidson')
+    INTO SUPERVISOR VALUES('854762391', 'Benjamin', 'S', 'Bayer')
+    INTO SUPERVISOR VALUES('976215623', 'Barbara', 'I', 'Benson')
+    INTO SUPERVISOR VALUES('902365129', 'Alicia', 'A', 'Zelaya')
+    INTO SUPERVISOR VALUES('453299012', 'Franklin', 'B', 'Wong')
+SELECT 1
+FROM DUAL;
