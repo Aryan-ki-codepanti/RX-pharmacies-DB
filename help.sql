@@ -1,0 +1,2 @@
+ALTER TABLE DOCTOR 
+ADD CHECK(DOCTOR_TYPE IN ('Family', 'Non Family'));
