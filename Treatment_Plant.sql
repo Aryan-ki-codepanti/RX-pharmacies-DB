@@ -1,0 +1,20 @@
+
+INSERT ALL
+    INTO TREATMENT_PLANT VALUES(140392, 'Thermax', 'Pune')
+    INTO TREATMENT_PLANT VALUES(137269, 'Ion Exhange', 'Indore')
+    INTO TREATMENT_PLANT VALUES(120378, 'Voltas Limited', 'Ahmedabad')
+    INTO TREATMENT_PLANT VALUES(634218, 'Thermax', 'Chandigarh')
+    INTO TREATMENT_PLANT VALUES(786543, 'MedPlexus', 'Chennai')
+    INTO TREATMENT_PLANT VALUES(120987, 'Remedy', 'Kolkata')
+    INTO TREATMENT_PLANT VALUES(439012, 'Cure All', 'Ahmedabad')
+    INTO TREATMENT_PLANT VALUES(567890, 'Vital Medix', 'Pune')
+    INTO TREATMENT_PLANT VALUES(786901, 'Health Horizon', 'Jaipur')
+    INTO TREATMENT_PLANT VALUES(345216, 'Therapeutic Works', 'Chandigarh')
+    INTO TREATMENT_PLANT VALUES(908721, 'BioHeal', 'Jalandhar')
+    INTO TREATMENT_PLANT VALUES(634501, 'Pharma Fusion', 'Patiala')
+    INTO TREATMENT_PLANT VALUES(123450, 'OptiMed', 'Vizag')
+    INTO TREATMENT_PLANT VALUES(987612, 'Restore Genix', 'Ranchi')
+    INTO TREATMENT_PLANT VALUES(345678, 'Cure Core', 'Navi Mumbai')
+    INTO TREATMENT_PLANT VALUES(901234, 'Vital Mend', 'Ajmer')
+SELECT 1
+FROM DUAL;
