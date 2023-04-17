@@ -23,7 +23,7 @@ INSERT ALL
     INTO DRUG VALUES('Aspirin', 'C16H18N2O4S', 318.75, TO_DATE('04/27', 'MM/YY'), 'Room Temperature', 1, 1013)
     INTO DRUG VALUES('Insulin', 'C16H19N3O5S', 84.9, TO_DATE('09/24', 'MM/YY'), 'Refrigerated', 0, 1011)
     INTO DRUG VALUES('Lorazepam', 'C17H18FN3O3', 278.1, TO_DATE('02/24', 'MM/YY'), 'Room Temperature', 1, 1006)
-    INTO DRUG VALUES('Metformin', 'C4H11N5', 300.25, TO_DATE('03/24', 'MM/YY'), 'Room Temperature', 1, 1010)
+    INTO DRUG VALUES('Ibuprofen', 'C4H11N5', 300.25, TO_DATE('03/24', 'MM/YY'), 'Room Temperature', 1, 1010)
     INTO DRUG VALUES('Omeprazole', 'C254H377N65O75S6', 195, TO_DATE('08/27', 'MM/YY'), 'Frozen', 0, 1015)
     INTO DRUG VALUES('Oxycodone', 'C17H19NO3', 109.99, TO_DATE('06/26', 'MM/YY'), 'Room Temperature', 0, 1007)
     INTO DRUG VALUES('Penicillin', 'C18H21NO3', 386.5, TO_DATE('01/26', 'MM/YY'), 'Frozen', 0, 1003)
@@ -69,6 +69,6 @@ INSERT ALL
     INTO NON_HAZARDOUS VALUES('Aspirin', 'Incineration')
     INTO NON_HAZARDOUS VALUES('Insulin', 'Photodegradation')
     INTO NON_HAZARDOUS VALUES('Lorazepam', 'Chemical Hydrolysis')
-    INTO NON_HAZARDOUS VALUES('Metformin', 'Photodegradation')
+    INTO NON_HAZARDOUS VALUES('Ibuprofen', 'Photodegradation')
 SELECT 1
 FROM DUAL;
