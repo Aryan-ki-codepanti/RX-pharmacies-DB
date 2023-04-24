@@ -36,12 +36,6 @@ WHERE DR.SSN = P.DOC_SSN
     AND DR.LNAME = 'Gautam'
     AND P.PDATE > TO_DATE('2021-02-20', 'YYYY-MM-DD');
 
-UPDATE PRESCRIBES
-SET
-    PDATE = PDATE - INTERVAL '1' MONTH
-WHERE
-    DRUG_NAME = 'Astor'
-    AND QUANTITY = 3;
 
 -- A4 Display the details of drugs that can neither be disposed nor recycled containing Cobalt in its manufacturing.
 
