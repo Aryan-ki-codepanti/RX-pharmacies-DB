@@ -103,7 +103,7 @@ HAVING COUNT(TRADE_NAME) < 20;
 
 -- M3. Retrieve all the treatment plants that dispose those hazardous drugs having expiry after 19th March 2022 that were prescribed by a non family doctor having more than 3 yrs experience.
 
-SELECT T.Plant_id , T.Owner_info, T.Location
+SELECT T.*
 FROM TREATMENT_PLANT T, 
     DISPOSED_BY DB, 
     HAZARDOUS H , 
